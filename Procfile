@@ -1,1 +1,1 @@
-web: FLASK_APP=web.py flask run & python3 jbot.py
+web: python3 jbot.py
