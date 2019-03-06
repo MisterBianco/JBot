@@ -1,1 +1,1 @@
-web: python3 jbot.py
+worker: python3 jbot.py
